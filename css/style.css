@@ -55,7 +55,9 @@
     animation-duration: 4s;
     animation-iteration-count: infinite;
     width: 300px;
+    text-align: center;
 }
+
 
 @keyframes muda{
     30%{
